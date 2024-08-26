@@ -23,7 +23,6 @@ const Add = () => {
             console.log(err);
         }
     }
-    // Title and Author can't be empty!
 
     return (
         <div className='form'>
